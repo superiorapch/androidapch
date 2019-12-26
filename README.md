@@ -1,4 +1,4 @@
-[![Curso Android Avanzado](banner_git.png)](https://www.udemy.com/programacion-android-avanzado-de-principiante-a-experto/?couponCode=GITHUB)
+[![Curso Android Avanzado](banner_git.png)](https://www.superiorapch.edu.ec/aulavirtual/course/view.php?id=58)
 
 # Android App: Curso Avanzado
 Repositorio del curso de Udemy sobre Android App Avanzado.
